@@ -3,5 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="dnbDark">#008484</color>
+    <color name="sjogronnAlt">#008484</color>
+    <color name="sjogronn">#007272</color>
+    <color name="havgronn">#00343E</color>
+    <color name="smaragdgronn">#14555A</color>
+    <color name="mingronn">#A5E1D2</color>
 </resources>
