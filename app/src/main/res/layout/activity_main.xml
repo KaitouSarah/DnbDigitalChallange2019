@@ -37,6 +37,7 @@
             android:layout_height="113dp"
             android:padding="18dp"
             android:drawableBottom="@drawable/adddocumenticon"
+            android:onClick="button_finansieringsbevis"
             android:id="@+id/finansieringButton"
             android:background="@color/sjogronnAlt" android:textColor="@android:color/white"
             android:layout_marginBottom="8dp"

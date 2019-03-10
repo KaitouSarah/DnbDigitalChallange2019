@@ -18,4 +18,9 @@ public class MainActivity extends AppCompatActivity {
         Intent startNewActivity = new Intent(this, BiddingActivity.class);
         startActivity(startNewActivity);
     }
+
+    public void button_finansieringsbevis(View view) {
+        Intent startNewActivity = new Intent(this, FinanseproofActivity.class);
+        startActivity(startNewActivity);
+    }
 }
